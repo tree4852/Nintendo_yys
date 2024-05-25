@@ -1,0 +1,85 @@
+// .flex_between{
+//     display: flex;
+//     align-items: center;
+//     justify-content: space-between;
+// }
+// .flex_center{
+//     display: flex;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+// a{
+//     text-decoration: none !important;
+// }
+
+// li{
+//     list-style: none;
+// }
+ 
+
+// @mixin bk_19 {
+//     color: #474545 !important;
+//     font-size: 19px;
+//     font-family: "Black Han Sans", sans-serif;
+//     font-weight: 400;
+//     font-style: normal;
+//   }
+
+// @mixin bk_17 {
+//     color: #474545 !important;
+//     font-size: 17px;
+//     font-family: "Black Han Sans", sans-serif;
+//     font-weight: 400;
+//     font-style: normal;
+//   }
+
+// #hd{
+//     .contaener{
+//     background-color: rgb(240, 0, 0);
+//     max-width: 1400px;
+//     padding: 45px 0;
+//         .nintendo_logo{
+//             h1{
+//                 a{  text-decoration: none;
+//                     display: inline-block;
+//                     img{
+//                         display: block;
+//                     }
+//                 }
+//             }
+//         }
+//         .gnb{
+//             .gnb_li{
+             
+//                 a{  
+//                     display: block;
+//                     color: #474545 !important;
+//                     font-size: 17px;
+//                     font-family: "Black Han Sans", sans-serif;
+//                     font-weight: 400;
+//                     font-style: normal;
+                   
+//                 }
+
+//             }
+                
+            
+            
+
+//         }
+//         .hd_login{
+//           li{
+//             a{
+//                 @include bk_17p;
+//             }
+//           }
+//         }
+        
+       
+            
+  
+        
+//     }
+    
+// }

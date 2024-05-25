@@ -1,0 +1,13 @@
+a{
+    display: none;
+}
+/* h1 img{
+    background: url(/img/svg/Group\ 2.svg);
+   
+}  */
+
+.contaener{
+    max-width: 1400px;
+    height: 90px;
+    
+}
